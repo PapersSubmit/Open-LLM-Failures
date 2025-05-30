@@ -1,0 +1,12 @@
+[
+  {
+    "number": 1,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Math/issues/5",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Import Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Math",
+    "architecture": "Dense"
+  }
+]
