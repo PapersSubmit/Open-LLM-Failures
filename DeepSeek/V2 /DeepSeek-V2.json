@@ -1,0 +1,52 @@
+[
+  {
+    "number": 1,
+    "link": "https://github.com/deepseek-ai/DeepSeek-V2/issues/20",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Other CUDA Errors",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-V2",
+    "architecture": "MoE"
+  },
+  {
+    "number": 2,
+    "link": "https://github.com/deepseek-ai/DeepSeek-V2/issues/49",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "DeepSeek-V2",
+    "architecture": "MoE"
+  },
+  {
+    "number": 3,
+    "link": "https://github.com/deepseek-ai/DeepSeek-V2/issues/52",
+    "status": "open",
+    "SYMPTOM": "Crash - Value-related Error - Other Value-related Errors",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-V2",
+    "architecture": "MoE"
+  },
+  {
+    "number": 4,
+    "link": "https://github.com/deepseek-ai/DeepSeek-V2/issues/78",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Import Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-V2",
+    "architecture": "MoE"
+  },
+  {
+    "number": 5,
+    "link": "https://github.com/deepseek-ai/DeepSeek-V2/issues/83",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "DeepSeek-V2",
+    "architecture": "MoE"
+  }
+]
