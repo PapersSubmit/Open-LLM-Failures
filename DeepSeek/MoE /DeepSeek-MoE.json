@@ -1,0 +1,52 @@
+[
+  {
+    "number": 1,
+    "link": "https://github.com/deepseek-ai/DeepSeek-MoE/issues/35",
+    "status": "open",
+    "SYMPTOM": "Crash - Value-related Error - Runtime DType Mismatch",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Fine-tuning",
+    "model": "DeepSeek-MoE",
+    "architecture": "MoE"
+  },
+  {
+    "number": 2,
+    "link": "https://github.com/deepseek-ai/DeepSeek-MoE/issues/3",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Import Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-MoE",
+    "architecture": "MoE"
+  },
+  {
+    "number": 3,
+    "link": "https://github.com/deepseek-ai/DeepSeek-MoE/issues/4",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-MoE",
+    "architecture": "MoE"
+  },
+  {
+    "number": 4,
+    "link": "https://github.com/deepseek-ai/DeepSeek-MoE/issues/27",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Fine-tuning",
+    "model": "DeepSeek-MoE",
+    "architecture": "MoE"
+  },
+  {
+    "number": 5,
+    "link": "https://github.com/deepseek-ai/DeepSeek-MoE/issues/47",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Kernel Error",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Fine-tuning",
+    "model": "DeepSeek-MoE",
+    "architecture": "MoE"
+  }
+]
