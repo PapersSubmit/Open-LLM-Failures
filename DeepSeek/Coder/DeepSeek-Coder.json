@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/17",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 2,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/19",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Import Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 3,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/27",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Other CUDA Errors",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 4,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/28",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 5,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/29",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 6,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/35",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 7,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/44",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 8,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/54",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 9,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/65",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 10,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/69",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 11,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/71",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 12,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/74",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 13,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/78",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 14,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/83",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Not Following Instructions",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 15,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/100",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Config File Corruption",
+    "STAGE": "Fine-tuning",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 16,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/102",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 17,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/108",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 18,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/129",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenization Error",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 19,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/136",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 20,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/137",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 21,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/151",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 22,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/168",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Kernel Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 23,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/183",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  },
+  {
+    "number": 24,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder/issues/603",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder",
+    "architecture": "Dense"
+  }
+]
