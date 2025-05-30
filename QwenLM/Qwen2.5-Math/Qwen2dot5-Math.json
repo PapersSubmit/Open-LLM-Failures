@@ -1,0 +1,22 @@
+[
+  {
+    "number": 1,
+    "link": "https://github.com/QwenLM/Qwen2.5-Math/issues/30",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5-Math",
+    "architecture": "Dense"
+  },
+  {
+    "number": 2,
+    "link": "https://github.com/QwenLM/Qwen2.5-Math/issues/38",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "Qwen2.5-Math",
+    "architecture": "Dense"
+  }
+]
