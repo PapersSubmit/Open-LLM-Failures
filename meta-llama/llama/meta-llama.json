@@ -1,0 +1,1072 @@
+[
+  {
+    "number": 1,
+    "link": "https://github.com/meta-llama/llama/issues/40",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 2,
+    "link": "https://github.com/meta-llama/llama/issues/50",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 3,
+    "link": "https://github.com/meta-llama/llama/issues/52",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 4,
+    "link": "https://github.com/meta-llama/llama/issues/55",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 5,
+    "link": "https://github.com/meta-llama/llama/issues/56",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 6,
+    "link": "https://github.com/meta-llama/llama/issues/59",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - CUBLAS Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 7,
+    "link": "https://github.com/meta-llama/llama/issues/61",
+    "status": "open",
+    "SYMPTOM": "Crash - Other Crashes",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 8,
+    "link": "https://github.com/meta-llama/llama/issues/63",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 9,
+    "link": "https://github.com/meta-llama/llama/issues/65",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - CUBLAS Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 10,
+    "link": "https://github.com/meta-llama/llama/issues/67",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 11,
+    "link": "https://github.com/meta-llama/llama/issues/77",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 12,
+    "link": "https://github.com/meta-llama/llama/issues/83",
+    "status": "open",
+    "SYMPTOM": "Hang - Generation Process Stuck",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 13,
+    "link": "https://github.com/meta-llama/llama/issues/86",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Import Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 14,
+    "link": "https://github.com/meta-llama/llama/issues/88",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 15,
+    "link": "https://github.com/meta-llama/llama/issues/93",
+    "status": "open",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 16,
+    "link": "https://github.com/meta-llama/llama/issues/104",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 17,
+    "link": "https://github.com/meta-llama/llama/issues/112",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 18,
+    "link": "https://github.com/meta-llama/llama/issues/121",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 19,
+    "link": "https://github.com/meta-llama/llama/issues/128",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 20,
+    "link": "https://github.com/meta-llama/llama/issues/136",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 21,
+    "link": "https://github.com/meta-llama/llama/issues/145",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 22,
+    "link": "https://github.com/meta-llama/llama/issues/146",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 23,
+    "link": "https://github.com/meta-llama/llama/issues/159",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-process Synchronization",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 24,
+    "link": "https://github.com/meta-llama/llama/issues/173",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 25,
+    "link": "https://github.com/meta-llama/llama/issues/180",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "API Usage and Interface Issues - Call Sequence Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 26,
+    "link": "https://github.com/meta-llama/llama/issues/182",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 27,
+    "link": "https://github.com/meta-llama/llama/issues/201",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 28,
+    "link": "https://github.com/meta-llama/llama/issues/212",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenization Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 29,
+    "link": "https://github.com/meta-llama/llama/issues/224",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - Runtime DType Mismatch",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 30,
+    "link": "https://github.com/meta-llama/llama/issues/228",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 31,
+    "link": "https://github.com/meta-llama/llama/issues/287",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Tokenizer Loading Error",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenizer File Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 32,
+    "link": "https://github.com/meta-llama/llama/issues/306",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-process Synchronization",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 33,
+    "link": "https://github.com/meta-llama/llama/issues/318",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Other File Corruptions",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 34,
+    "link": "https://github.com/meta-llama/llama/issues/321",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 35,
+    "link": "https://github.com/meta-llama/llama/issues/335",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 36,
+    "link": "https://github.com/meta-llama/llama/issues/378",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 37,
+    "link": "https://github.com/meta-llama/llama/issues/380",
+    "status": "open",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 38,
+    "link": "https://github.com/meta-llama/llama/issues/415",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 39,
+    "link": "https://github.com/meta-llama/llama/issues/420",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 40,
+    "link": "https://github.com/meta-llama/llama/issues/423",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 41,
+    "link": "https://github.com/meta-llama/llama/issues/430",
+    "status": "open",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 42,
+    "link": "https://github.com/meta-llama/llama/issues/455",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 43,
+    "link": "https://github.com/meta-llama/llama/issues/461",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 44,
+    "link": "https://github.com/meta-llama/llama/issues/466",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 45,
+    "link": "https://github.com/meta-llama/llama/issues/468",
+    "status": "open",
+    "SYMPTOM": "Hang - Generation Process Stuck",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-process Synchronization",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 46,
+    "link": "https://github.com/meta-llama/llama/issues/478",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Other File Corruptions",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 47,
+    "link": "https://github.com/meta-llama/llama/issues/482",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 48,
+    "link": "https://github.com/meta-llama/llama/issues/516",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Other CUDA Errors",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 49,
+    "link": "https://github.com/meta-llama/llama/issues/531",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Tokenizer Loading Error",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenizer File Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 50,
+    "link": "https://github.com/meta-llama/llama/issues/540",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 51,
+    "link": "https://github.com/meta-llama/llama/issues/548",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 52,
+    "link": "https://github.com/meta-llama/llama/issues/551",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 53,
+    "link": "https://github.com/meta-llama/llama/issues/563",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Not Following Instructions",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 54,
+    "link": "https://github.com/meta-llama/llama/issues/565",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 55,
+    "link": "https://github.com/meta-llama/llama/issues/583",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 56,
+    "link": "https://github.com/meta-llama/llama/issues/585",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 57,
+    "link": "https://github.com/meta-llama/llama/issues/614",
+    "status": "open",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 58,
+    "link": "https://github.com/meta-llama/llama/issues/645",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 59,
+    "link": "https://github.com/meta-llama/llama/issues/654",
+    "status": "closed",
+    "SYMPTOM": "Crash - Assertion Failure",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 60,
+    "link": "https://github.com/meta-llama/llama/issues/665",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 61,
+    "link": "https://github.com/meta-llama/llama/issues/684",
+    "status": "open",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 62,
+    "link": "https://github.com/meta-llama/llama/issues/685",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 63,
+    "link": "https://github.com/meta-llama/llama/issues/697",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 64,
+    "link": "https://github.com/meta-llama/llama/issues/704",
+    "status": "open",
+    "SYMPTOM": "Hang - Generation Process Stuck",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-process Synchronization",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 65,
+    "link": "https://github.com/meta-llama/llama/issues/710",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 66,
+    "link": "https://github.com/meta-llama/llama/issues/711",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 67,
+    "link": "https://github.com/meta-llama/llama/issues/719",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 68,
+    "link": "https://github.com/meta-llama/llama/issues/721",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Checkpoint Corruption",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 69,
+    "link": "https://github.com/meta-llama/llama/issues/722",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 70,
+    "link": "https://github.com/meta-llama/llama/issues/734",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 71,
+    "link": "https://github.com/meta-llama/llama/issues/736",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 72,
+    "link": "https://github.com/meta-llama/llama/issues/758",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 73,
+    "link": "https://github.com/meta-llama/llama/issues/771",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 74,
+    "link": "https://github.com/meta-llama/llama/issues/778",
+    "status": "open",
+    "SYMPTOM": "Crash - Value-related Error - Runtime DType Mismatch",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 75,
+    "link": "https://github.com/meta-llama/llama/issues/788",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Checkpoint Corruption",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 76,
+    "link": "https://github.com/meta-llama/llama/issues/799",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 77,
+    "link": "https://github.com/meta-llama/llama/issues/806",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 78,
+    "link": "https://github.com/meta-llama/llama/issues/830",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 79,
+    "link": "https://github.com/meta-llama/llama/issues/834",
+    "status": "open",
+    "SYMPTOM": "Hang - Generation Process Stuck",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-process Synchronization",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 80,
+    "link": "https://github.com/meta-llama/llama/issues/834",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 81,
+    "link": "https://github.com/meta-llama/llama/issues/836",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 82,
+    "link": "https://github.com/meta-llama/llama/issues/854",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 83,
+    "link": "https://github.com/meta-llama/llama/issues/896",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 84,
+    "link": "https://github.com/meta-llama/llama/issues/899",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 85,
+    "link": "https://github.com/meta-llama/llama/issues/913",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 86,
+    "link": "https://github.com/meta-llama/llama/issues/918",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 87,
+    "link": "https://github.com/meta-llama/llama/issues/928",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 88,
+    "link": "https://github.com/meta-llama/llama/issues/930",
+    "status": "open",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 89,
+    "link": "https://github.com/meta-llama/llama/issues/936",
+    "status": "open",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 90,
+    "link": "https://github.com/meta-llama/llama/issues/946",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 91,
+    "link": "https://github.com/meta-llama/llama/issues/954",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 92,
+    "link": "https://github.com/meta-llama/llama/issues/959",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Safetensor File Corruption",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 93,
+    "link": "https://github.com/meta-llama/llama/issues/960",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 94,
+    "link": "https://github.com/meta-llama/llama/issues/964",
+    "status": "closed",
+    "SYMPTOM": "Crash - Assertion Failure",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 95,
+    "link": "https://github.com/meta-llama/llama/issues/969",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 96,
+    "link": "https://github.com/meta-llama/llama/issues/976",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Import Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 97,
+    "link": "https://github.com/meta-llama/llama/issues/1017",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 98,
+    "link": "https://github.com/meta-llama/llama/issues/1034",
+    "status": "open",
+    "SYMPTOM": "Crash - Other Crashes",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 99,
+    "link": "https://github.com/meta-llama/llama/issues/1041",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 100,
+    "link": "https://github.com/meta-llama/llama/issues/1048",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 101,
+    "link": "https://github.com/meta-llama/llama/issues/1071",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 102,
+    "link": "https://github.com/meta-llama/llama/issues/1075",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Config File Corruption",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 103,
+    "link": "https://github.com/meta-llama/llama/issues/1081",
+    "status": "open",
+    "SYMPTOM": "Hang - Generation Process Stuck",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 104,
+    "link": "https://github.com/meta-llama/llama/issues/1092",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 105,
+    "link": "https://github.com/meta-llama/llama/issues/1119",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Tokenizer Loading Error",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenizer File Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 106,
+    "link": "https://github.com/meta-llama/llama/issues/1153",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 107,
+    "link": "https://github.com/meta-llama/llama/issues/1088",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "llama",
+    "architecture": "Dense"
+  }
+]
