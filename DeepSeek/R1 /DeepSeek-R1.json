@@ -1,0 +1,242 @@
+[
+  {
+    "number": 1,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/28",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Not Following Instructions",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 2,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/71",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 3,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/151",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Not Following Instructions",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 4,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/242",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 5,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/318",
+    "status": "open",
+    "SYMPTOM": "Crash - Other Crashes",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 6,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/334",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 7,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/350",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Reasoning Mode Anomaly",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 8,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/351",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 9,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/352",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Reasoning Mode Anomaly",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 10,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/359",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 11,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/363",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Reasoning Mode Anomaly",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 12,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/402",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Reasoning Mode Anomaly",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 13,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/418",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 14,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/440",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 15,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/487",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 16,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/505",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 17,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/532",
+    "status": "closed",
+    "SYMPTOM": "Crash - Cluster Component Crash",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 18,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/546",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 19,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/579",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 20,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/588",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 21,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/594",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Reasoning Mode Anomaly",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 22,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/612",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Output Consistency Anomaly",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 23,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/623",
+    "status": "open",
+    "SYMPTOM": "Crash - Value-related Error - Other Value-related Errors",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  },
+  {
+    "number": 24,
+    "link": "https://github.com/deepseek-ai/DeepSeek-R1/issues/633",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Reasoning Mode Anomaly",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "DeepSeek-R1",
+    "architecture": "MoE"
+  }
+]
