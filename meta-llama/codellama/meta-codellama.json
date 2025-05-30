@@ -1,0 +1,292 @@
+[
+  {
+    "number": 1,
+    "link": "https://github.com/meta-llama/codellama/issues/11",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 2,
+    "link": "https://github.com/meta-llama/codellama/issues/19",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 3,
+    "link": "https://github.com/meta-llama/codellama/issues/25",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Fine-tuning",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 4,
+    "link": "https://github.com/meta-llama/codellama/issues/26",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 5,
+    "link": "https://github.com/meta-llama/codellama/issues/50",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 6,
+    "link": "https://github.com/meta-llama/codellama/issues/59",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Checkpoint Corruption",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 7,
+    "link": "https://github.com/meta-llama/codellama/issues/60",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Checkpoint Corruption",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 8,
+    "link": "https://github.com/meta-llama/codellama/issues/63",
+    "status": "open",
+    "SYMPTOM": "Hang - Generation Process Stuck",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 9,
+    "link": "https://github.com/meta-llama/codellama/issues/64",
+    "status": "open",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 10,
+    "link": "https://github.com/meta-llama/codellama/issues/70",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 11,
+    "link": "https://github.com/meta-llama/codellama/issues/71",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 12,
+    "link": "https://github.com/meta-llama/codellama/issues/79",
+    "status": "open",
+    "SYMPTOM": "Crash - Value-related Error - ValueError",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Fine-tuning",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 13,
+    "link": "https://github.com/meta-llama/codellama/issues/82",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 14,
+    "link": "https://github.com/meta-llama/codellama/issues/89",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 15,
+    "link": "https://github.com/meta-llama/codellama/issues/93",
+    "status": "open",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 16,
+    "link": "https://github.com/meta-llama/codellama/issues/95",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 17,
+    "link": "https://github.com/meta-llama/codellama/issues/99",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 18,
+    "link": "https://github.com/meta-llama/codellama/issues/109",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 19,
+    "link": "https://github.com/meta-llama/codellama/issues/115",
+    "status": "open",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 20,
+    "link": "https://github.com/meta-llama/codellama/issues/116",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Model Capability Degradation",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 21,
+    "link": "https://github.com/meta-llama/codellama/issues/118",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 22,
+    "link": "https://github.com/meta-llama/codellama/issues/126",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Positional Encoding Implementation Issues",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 23,
+    "link": "https://github.com/meta-llama/codellama/issues/150",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Model Capability Degradation",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 24,
+    "link": "https://github.com/meta-llama/codellama/issues/164",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 25,
+    "link": "https://github.com/meta-llama/codellama/issues/165",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Other File Corruptions",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 26,
+    "link": "https://github.com/meta-llama/codellama/issues/166",
+    "status": "open",
+    "SYMPTOM": "Crash - Assertion Failure",
+    "ROOT CAUSE": "Model Corruption Issues - Config File Corruption",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 27,
+    "link": "https://github.com/meta-llama/codellama/issues/171",
+    "status": "open",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 28,
+    "link": "https://github.com/meta-llama/codellama/issues/185",
+    "status": "open",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  },
+  {
+    "number": 29,
+    "link": "https://github.com/meta-llama/codellama/issues/222",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenization Error",
+    "STAGE": "Inference",
+    "model": "codellama",
+    "architecture": "Dense"
+  }
+]
