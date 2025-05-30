@@ -1,0 +1,72 @@
+[
+  {
+    "number": 1,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder-V2/issues/6",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - Runtime DType Mismatch",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Fine-tuning",
+    "model": "DeepSeek-Coder-V2",
+    "architecture": "MoE"
+  },
+  {
+    "number": 2,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder-V2/issues/12",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Not Following Instructions",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder-V2",
+    "architecture": "MoE"
+  },
+  {
+    "number": 3,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder-V2/issues/23",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder-V2",
+    "architecture": "MoE"
+  },
+  {
+    "number": 4,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder-V2/issues/29",
+    "status": "closed",
+    "SYMPTOM": "Hang - Generation Process Stuck",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder-V2",
+    "architecture": "MoE"
+  },
+  {
+    "number": 5,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder-V2/issues/30",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder-V2",
+    "architecture": "MoE"
+  },
+  {
+    "number": 6,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder-V2/issues/49",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Not Following Instructions",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder-V2",
+    "architecture": "MoE"
+  },
+  {
+    "number": 7,
+    "link": "https://github.com/deepseek-ai/DeepSeek-Coder-V2/issues/54",
+    "status": "open",
+    "SYMPTOM": "Crash - Other Crashes",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "DeepSeek-Coder-V2",
+    "architecture": "MoE"
+  }
+]
