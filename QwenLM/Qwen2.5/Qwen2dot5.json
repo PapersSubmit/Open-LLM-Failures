@@ -1,0 +1,2122 @@
+[
+  {
+    "number": 1,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/16",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 2,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/23",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Import Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 3,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/30",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 4,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/35",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 5,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/42",
+    "status": "closed",
+    "SYMPTOM": "Hang - Generation Process Stuck",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 6,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/43",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 7,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/50",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Inference Speed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 8,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/52",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 9,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/54",
+    "status": "closed",
+    "SYMPTOM": "Hang - Generation Process Stuck",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 10,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/56",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 11,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/60",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 12,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/63",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 13,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/65",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 14,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/72",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 15,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/73",
+    "status": "closed",
+    "SYMPTOM": "Hang - Fine-tuning Process Stuck",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 16,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/76",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Model Capability Degradation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 17,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/77",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 18,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/102",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 19,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/105",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 20,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/106",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 21,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/109",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 22,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/110",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 23,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/112",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 24,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/118",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 25,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/120",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 26,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/122",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 27,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/124",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 28,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/127",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 29,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/144",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 30,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/145",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 31,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/153",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 32,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/154",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 33,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/172",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ValueError",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 34,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/174",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 35,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/178",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 36,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/180",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "API Usage and Interface Issues - Call Sequence Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 37,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/187",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 38,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/189",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Kernel Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 39,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/195",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "API Usage and Interface Issues - Call Sequence Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 40,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/198",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 41,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/199",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenization Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 42,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/203",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 43,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/212",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 44,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/217",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 45,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/218",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Kernel Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 46,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/220",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 47,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/221",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - Other Value-related Errors",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 48,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/230",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 49,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/239",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 50,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/251",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Fine-tuning Speed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 51,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/255",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 52,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/258",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 53,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/264",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 54,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/269",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 55,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/271",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 56,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/275",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Inference Speed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-process Synchronization",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 57,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/277",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Inference Speed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 58,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/281",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Tokenizer Loading Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 59,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/295",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 60,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/297",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 61,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/300",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 62,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/306",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - Other Value-related Errors",
+    "ROOT CAUSE": "Algorithm Implementation Defects - KV Cache Management Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 63,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/306",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - Other Value-related Errors",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 64,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/315",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 65,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/316",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Tokenizer Loading Error",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 66,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/318",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Output Consistency Anomaly",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 67,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/324",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ValueError",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 68,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/327",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 69,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/329",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenization Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 70,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/331",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 71,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/340",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 72,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/341",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 73,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/354",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 74,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/357",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 75,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/360",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 76,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/362",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ValueError",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 77,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/367",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 78,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/368",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 79,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/381",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 80,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/385",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Other CUDA Errors",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 81,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/386",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 82,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/389",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 83,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/406",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 84,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/417",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 85,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/432",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Model Corruption Issues - Other File Corruptions",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 86,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/433",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 87,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/439",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 88,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/442",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 89,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/453",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Inference Speed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 90,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/454",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 91,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/459",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 92,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/462",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Not Following Instructions",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 93,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/463",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 94,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/485",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 95,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/488",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 96,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/496",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 97,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/500",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 98,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/503",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 99,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/505",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 100,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/506",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 101,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/511",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 102,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/512",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Other CUDA Errors",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 103,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/513",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 104,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/516",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 105,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/522",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 106,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/536",
+    "status": "closed",
+    "SYMPTOM": "Hang - Generation Process Stuck",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 107,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/540",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 108,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/542",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 109,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/547",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 110,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/567",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 111,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/571",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 112,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/575",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 113,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/577",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Learning Rate Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 114,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/603",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 115,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/665",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 116,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/668",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 117,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/670",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Fine-tuning Convergence Anomaly",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 118,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/675",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 119,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/676",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Fine-tuning Convergence Anomaly",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 120,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/678",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 121,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/682",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Checkpoint Corruption",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 122,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/695",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Output Consistency Anomaly",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 123,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/697",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Kernel Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 124,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/698",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 125,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/703",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 126,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/717",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 127,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/719",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 128,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/721",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 129,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/722",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 130,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/724",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 131,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/735",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Model Corruption Issues - Checkpoint Corruption",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 132,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/736",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Fine-tuning Speed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 133,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/743",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 134,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/750",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 135,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/752",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 136,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/756",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 137,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/761",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 138,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/764",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 139,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/773",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Fine-tuning Speed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 140,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/774",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 141,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/776",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 142,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/777",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Call Sequence Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 143,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/779",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 144,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/786",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 145,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/796",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 146,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/802",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - CUBLAS Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 147,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/804",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 148,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/808",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 149,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/814",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 150,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/816",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ValueError",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 151,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/819",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 152,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/820",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Fine-tuning Convergence Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 153,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/821",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 154,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/828",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Communication Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 155,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/840",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 156,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/844",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 157,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/846",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Learning Rate Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 158,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/852",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 159,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/862",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 160,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/863",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 161,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/873",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - CUBLAS Error",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 162,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/881",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 163,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/882",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Not Following Instructions",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 164,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/884",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 165,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/890",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 166,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/892",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 167,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/897",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Output Consistency Anomaly",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 168,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/905",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Model Capability Degradation",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 169,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/910",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 170,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/920",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 171,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/924",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 172,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/925",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 173,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/927",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 174,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/930",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 175,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/932",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 176,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/935",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Fine-tuning Convergence Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 177,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/945",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 178,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/951",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 179,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/953",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Model Capability Degradation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 180,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/954",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 181,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/957",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 182,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/985",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 183,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/986",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 184,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/997",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 185,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1006",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 186,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1009",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 187,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1014",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 188,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1018",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Model Capability Degradation",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 189,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1031",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 190,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1041",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ValueError",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 191,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1048",
+    "status": "closed",
+    "SYMPTOM": "Crash - Cluster Component Crash",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 192,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1049",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 193,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1059",
+    "status": "closed",
+    "SYMPTOM": "Crash - Other Crashes",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 194,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1064",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 195,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1070",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 196,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1072",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Not Following Instructions",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 197,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1074",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Fine-tuning Convergence Anomaly",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 198,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1089",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 199,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1090",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 200,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1101",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 201,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1103",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 202,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1117",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 203,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1118",
+    "status": "closed",
+    "SYMPTOM": "Crash - Assertion Failure",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 204,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1143",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - AttributeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 205,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1152",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Not Following Instructions",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 206,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1159",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenization Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 207,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1171",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 208,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1209",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 209,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1210",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 210,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1218",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 211,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1243",
+    "status": "open",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  },
+  {
+    "number": 212,
+    "link": "https://github.com/QwenLM/Qwen2.5/issues/1250",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen2.5",
+    "architecture": "Mixed"
+  }
+]
