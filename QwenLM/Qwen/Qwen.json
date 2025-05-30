@@ -1,0 +1,2082 @@
+[
+  {
+    "number": 1,
+    "link": "https://github.com/QwenLM/Qwen/issues/13",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 2,
+    "link": "https://github.com/QwenLM/Qwen/issues/15",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 3,
+    "link": "https://github.com/QwenLM/Qwen/issues/15",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 4,
+    "link": "https://github.com/QwenLM/Qwen/issues/16",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 5,
+    "link": "https://github.com/QwenLM/Qwen/issues/24",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 6,
+    "link": "https://github.com/QwenLM/Qwen/issues/28",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 7,
+    "link": "https://github.com/QwenLM/Qwen/issues/32",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 8,
+    "link": "https://github.com/QwenLM/Qwen/issues/35",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 9,
+    "link": "https://github.com/QwenLM/Qwen/issues/39",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 10,
+    "link": "https://github.com/QwenLM/Qwen/issues/43",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenization Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 11,
+    "link": "https://github.com/QwenLM/Qwen/issues/45",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 12,
+    "link": "https://github.com/QwenLM/Qwen/issues/50",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 13,
+    "link": "https://github.com/QwenLM/Qwen/issues/56",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - Other Value-related Errors",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 14,
+    "link": "https://github.com/QwenLM/Qwen/issues/59",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ValueError",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 15,
+    "link": "https://github.com/QwenLM/Qwen/issues/60",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Tokenizer Loading Error",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenizer File Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 16,
+    "link": "https://github.com/QwenLM/Qwen/issues/65",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Import Error",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 17,
+    "link": "https://github.com/QwenLM/Qwen/issues/72",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 18,
+    "link": "https://github.com/QwenLM/Qwen/issues/92",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenization Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 19,
+    "link": "https://github.com/QwenLM/Qwen/issues/96",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 20,
+    "link": "https://github.com/QwenLM/Qwen/issues/99",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - AttributeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 21,
+    "link": "https://github.com/QwenLM/Qwen/issues/100",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - AttributeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 22,
+    "link": "https://github.com/QwenLM/Qwen/issues/105",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Inference Speed",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Positional Encoding Implementation Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 23,
+    "link": "https://github.com/QwenLM/Qwen/issues/106",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 24,
+    "link": "https://github.com/QwenLM/Qwen/issues/122",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 25,
+    "link": "https://github.com/QwenLM/Qwen/issues/123",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 26,
+    "link": "https://github.com/QwenLM/Qwen/issues/125",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Tokenizer Loading Error",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 27,
+    "link": "https://github.com/QwenLM/Qwen/issues/132",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 28,
+    "link": "https://github.com/QwenLM/Qwen/issues/136",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 29,
+    "link": "https://github.com/QwenLM/Qwen/issues/141",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Output Consistency Anomaly",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Control Token Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 30,
+    "link": "https://github.com/QwenLM/Qwen/issues/153",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 31,
+    "link": "https://github.com/QwenLM/Qwen/issues/159",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 32,
+    "link": "https://github.com/QwenLM/Qwen/issues/169",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 33,
+    "link": "https://github.com/QwenLM/Qwen/issues/176",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 34,
+    "link": "https://github.com/QwenLM/Qwen/issues/182",
+    "status": "closed",
+    "SYMPTOM": "Crash - Assertion Failure",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 35,
+    "link": "https://github.com/QwenLM/Qwen/issues/187",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 36,
+    "link": "https://github.com/QwenLM/Qwen/issues/188",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 37,
+    "link": "https://github.com/QwenLM/Qwen/issues/190",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 38,
+    "link": "https://github.com/QwenLM/Qwen/issues/194",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 39,
+    "link": "https://github.com/QwenLM/Qwen/issues/215",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenization Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 40,
+    "link": "https://github.com/QwenLM/Qwen/issues/217",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 41,
+    "link": "https://github.com/QwenLM/Qwen/issues/239",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Loading Speed",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 42,
+    "link": "https://github.com/QwenLM/Qwen/issues/243",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 43,
+    "link": "https://github.com/QwenLM/Qwen/issues/248",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Model Capability Degradation",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 44,
+    "link": "https://github.com/QwenLM/Qwen/issues/249",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 45,
+    "link": "https://github.com/QwenLM/Qwen/issues/255",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 46,
+    "link": "https://github.com/QwenLM/Qwen/issues/276",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 47,
+    "link": "https://github.com/QwenLM/Qwen/issues/284",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Tokenizer and Text Processing Issues - Tokenization Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 48,
+    "link": "https://github.com/QwenLM/Qwen/issues/286",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Tokenizer Loading Error",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 49,
+    "link": "https://github.com/QwenLM/Qwen/issues/306",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 50,
+    "link": "https://github.com/QwenLM/Qwen/issues/351",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Safetensor File Corruption",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 51,
+    "link": "https://github.com/QwenLM/Qwen/issues/353",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Fine-tuning Convergence Anomaly",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 52,
+    "link": "https://github.com/QwenLM/Qwen/issues/358",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 53,
+    "link": "https://github.com/QwenLM/Qwen/issues/359",
+    "status": "closed",
+    "SYMPTOM": "Crash - Assertion Failure",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 54,
+    "link": "https://github.com/QwenLM/Qwen/issues/370",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 55,
+    "link": "https://github.com/QwenLM/Qwen/issues/371",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 56,
+    "link": "https://github.com/QwenLM/Qwen/issues/372",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Inference Speed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 57,
+    "link": "https://github.com/QwenLM/Qwen/issues/376",
+    "status": "closed",
+    "SYMPTOM": "Crash - Assertion Failure",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 58,
+    "link": "https://github.com/QwenLM/Qwen/issues/381",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Inference Speed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 59,
+    "link": "https://github.com/QwenLM/Qwen/issues/384",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 60,
+    "link": "https://github.com/QwenLM/Qwen/issues/385",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 61,
+    "link": "https://github.com/QwenLM/Qwen/issues/392",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - Runtime DType Mismatch",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 62,
+    "link": "https://github.com/QwenLM/Qwen/issues/396",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 63,
+    "link": "https://github.com/QwenLM/Qwen/issues/397",
+    "status": "closed",
+    "SYMPTOM": "Crash - Assertion Failure",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 64,
+    "link": "https://github.com/QwenLM/Qwen/issues/398",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 65,
+    "link": "https://github.com/QwenLM/Qwen/issues/404",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 66,
+    "link": "https://github.com/QwenLM/Qwen/issues/411",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 67,
+    "link": "https://github.com/QwenLM/Qwen/issues/414",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 68,
+    "link": "https://github.com/QwenLM/Qwen/issues/418",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 69,
+    "link": "https://github.com/QwenLM/Qwen/issues/423",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 70,
+    "link": "https://github.com/QwenLM/Qwen/issues/428",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 71,
+    "link": "https://github.com/QwenLM/Qwen/issues/430",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 72,
+    "link": "https://github.com/QwenLM/Qwen/issues/431",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 73,
+    "link": "https://github.com/QwenLM/Qwen/issues/432",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 74,
+    "link": "https://github.com/QwenLM/Qwen/issues/450",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 75,
+    "link": "https://github.com/QwenLM/Qwen/issues/460",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Import Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 76,
+    "link": "https://github.com/QwenLM/Qwen/issues/461",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 77,
+    "link": "https://github.com/QwenLM/Qwen/issues/463",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Other CUDA Errors",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 78,
+    "link": "https://github.com/QwenLM/Qwen/issues/464",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 79,
+    "link": "https://github.com/QwenLM/Qwen/issues/466",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 80,
+    "link": "https://github.com/QwenLM/Qwen/issues/467",
+    "status": "closed",
+    "SYMPTOM": "Crash - Assertion Failure",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 81,
+    "link": "https://github.com/QwenLM/Qwen/issues/471",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 82,
+    "link": "https://github.com/QwenLM/Qwen/issues/473",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 83,
+    "link": "https://github.com/QwenLM/Qwen/issues/478",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 84,
+    "link": "https://github.com/QwenLM/Qwen/issues/486",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Tokenizer Loading Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 85,
+    "link": "https://github.com/QwenLM/Qwen/issues/488",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 86,
+    "link": "https://github.com/QwenLM/Qwen/issues/492",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 87,
+    "link": "https://github.com/QwenLM/Qwen/issues/497",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 88,
+    "link": "https://github.com/QwenLM/Qwen/issues/506",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 89,
+    "link": "https://github.com/QwenLM/Qwen/issues/508",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 90,
+    "link": "https://github.com/QwenLM/Qwen/issues/512",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Tokenizer Loading Error",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 91,
+    "link": "https://github.com/QwenLM/Qwen/issues/516",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 92,
+    "link": "https://github.com/QwenLM/Qwen/issues/517",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Kernel Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 93,
+    "link": "https://github.com/QwenLM/Qwen/issues/520",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 94,
+    "link": "https://github.com/QwenLM/Qwen/issues/521",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 95,
+    "link": "https://github.com/QwenLM/Qwen/issues/526",
+    "status": "closed",
+    "SYMPTOM": "Hang - Fine-tuning Process Stuck",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 96,
+    "link": "https://github.com/QwenLM/Qwen/issues/537",
+    "status": "closed",
+    "SYMPTOM": "Crash - Cluster Component Crash",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 97,
+    "link": "https://github.com/QwenLM/Qwen/issues/542",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Data and Computation Issues - Quantization Compatibility Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 98,
+    "link": "https://github.com/QwenLM/Qwen/issues/546",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 99,
+    "link": "https://github.com/QwenLM/Qwen/issues/556",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Other CUDA Errors",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 100,
+    "link": "https://github.com/QwenLM/Qwen/issues/558",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Kernel Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 101,
+    "link": "https://github.com/QwenLM/Qwen/issues/567",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 102,
+    "link": "https://github.com/QwenLM/Qwen/issues/582",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Kernel Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 103,
+    "link": "https://github.com/QwenLM/Qwen/issues/588",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 104,
+    "link": "https://github.com/QwenLM/Qwen/issues/601",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 105,
+    "link": "https://github.com/QwenLM/Qwen/issues/608",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 106,
+    "link": "https://github.com/QwenLM/Qwen/issues/610",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 107,
+    "link": "https://github.com/QwenLM/Qwen/issues/611",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 108,
+    "link": "https://github.com/QwenLM/Qwen/issues/619",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 109,
+    "link": "https://github.com/QwenLM/Qwen/issues/620",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 110,
+    "link": "https://github.com/QwenLM/Qwen/issues/621",
+    "status": "closed",
+    "SYMPTOM": "Crash - Other Crashes",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 111,
+    "link": "https://github.com/QwenLM/Qwen/issues/622",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 112,
+    "link": "https://github.com/QwenLM/Qwen/issues/633",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 113,
+    "link": "https://github.com/QwenLM/Qwen/issues/635",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 114,
+    "link": "https://github.com/QwenLM/Qwen/issues/649",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 115,
+    "link": "https://github.com/QwenLM/Qwen/issues/650",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 116,
+    "link": "https://github.com/QwenLM/Qwen/issues/659",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - AttributeError",
+    "ROOT CAUSE": "Algorithm Implementation Defects - KV Cache Management Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 117,
+    "link": "https://github.com/QwenLM/Qwen/issues/661",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 118,
+    "link": "https://github.com/QwenLM/Qwen/issues/668",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 119,
+    "link": "https://github.com/QwenLM/Qwen/issues/671",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 120,
+    "link": "https://github.com/QwenLM/Qwen/issues/680",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Safetensor File Corruption",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 121,
+    "link": "https://github.com/QwenLM/Qwen/issues/684",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Special Token Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 122,
+    "link": "https://github.com/QwenLM/Qwen/issues/695",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Fine-tuning Convergence Anomaly",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 123,
+    "link": "https://github.com/QwenLM/Qwen/issues/699",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Fine-tuning Convergence Anomaly",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 124,
+    "link": "https://github.com/QwenLM/Qwen/issues/711",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 125,
+    "link": "https://github.com/QwenLM/Qwen/issues/714",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ValueError",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 126,
+    "link": "https://github.com/QwenLM/Qwen/issues/716",
+    "status": "closed",
+    "SYMPTOM": "Crash - Assertion Failure",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 127,
+    "link": "https://github.com/QwenLM/Qwen/issues/725",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 128,
+    "link": "https://github.com/QwenLM/Qwen/issues/728",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 129,
+    "link": "https://github.com/QwenLM/Qwen/issues/730",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 130,
+    "link": "https://github.com/QwenLM/Qwen/issues/731",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - AttributeError",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 131,
+    "link": "https://github.com/QwenLM/Qwen/issues/733",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Fine-tuning Convergence Anomaly",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 132,
+    "link": "https://github.com/QwenLM/Qwen/issues/735",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 133,
+    "link": "https://github.com/QwenLM/Qwen/issues/745",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ValueError",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 134,
+    "link": "https://github.com/QwenLM/Qwen/issues/748",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - AttributeError",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 135,
+    "link": "https://github.com/QwenLM/Qwen/issues/759",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ShapeError",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 136,
+    "link": "https://github.com/QwenLM/Qwen/issues/764",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 137,
+    "link": "https://github.com/QwenLM/Qwen/issues/781",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 138,
+    "link": "https://github.com/QwenLM/Qwen/issues/783",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Inference Speed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 139,
+    "link": "https://github.com/QwenLM/Qwen/issues/787",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 140,
+    "link": "https://github.com/QwenLM/Qwen/issues/795",
+    "status": "closed",
+    "SYMPTOM": "Crash - Assertion Failure",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 141,
+    "link": "https://github.com/QwenLM/Qwen/issues/798",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 142,
+    "link": "https://github.com/QwenLM/Qwen/issues/800",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Inference Speed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 143,
+    "link": "https://github.com/QwenLM/Qwen/issues/805",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - AttributeError",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 144,
+    "link": "https://github.com/QwenLM/Qwen/issues/811",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 145,
+    "link": "https://github.com/QwenLM/Qwen/issues/815",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Model Corruption Issues - Other File Corruptions",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 146,
+    "link": "https://github.com/QwenLM/Qwen/issues/836",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 147,
+    "link": "https://github.com/QwenLM/Qwen/issues/848",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 148,
+    "link": "https://github.com/QwenLM/Qwen/issues/849",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 149,
+    "link": "https://github.com/QwenLM/Qwen/issues/852",
+    "status": "closed",
+    "SYMPTOM": "Crash - Process Killed",
+    "ROOT CAUSE": "Hardware and Resource Limitations - CPU Memory Limitation",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 150,
+    "link": "https://github.com/QwenLM/Qwen/issues/853",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 151,
+    "link": "https://github.com/QwenLM/Qwen/issues/854",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 152,
+    "link": "https://github.com/QwenLM/Qwen/issues/856",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Import Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 153,
+    "link": "https://github.com/QwenLM/Qwen/issues/857",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Multi-GPU Communication Failure",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 154,
+    "link": "https://github.com/QwenLM/Qwen/issues/864",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 155,
+    "link": "https://github.com/QwenLM/Qwen/issues/884",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 156,
+    "link": "https://github.com/QwenLM/Qwen/issues/897",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - OperationRestriction",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 157,
+    "link": "https://github.com/QwenLM/Qwen/issues/901",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 158,
+    "link": "https://github.com/QwenLM/Qwen/issues/904",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Model Corruption Issues - Safetensor File Corruption",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 159,
+    "link": "https://github.com/QwenLM/Qwen/issues/916",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 160,
+    "link": "https://github.com/QwenLM/Qwen/issues/917",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Fine-tuning Convergence Anomaly",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 161,
+    "link": "https://github.com/QwenLM/Qwen/issues/920",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 162,
+    "link": "https://github.com/QwenLM/Qwen/issues/931",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 163,
+    "link": "https://github.com/QwenLM/Qwen/issues/936",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ValueError",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 164,
+    "link": "https://github.com/QwenLM/Qwen/issues/947",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Kernel Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 165,
+    "link": "https://github.com/QwenLM/Qwen/issues/954",
+    "status": "closed",
+    "SYMPTOM": "Hang - Fine-tuning Process Stuck",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 166,
+    "link": "https://github.com/QwenLM/Qwen/issues/958",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Repetitive Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 167,
+    "link": "https://github.com/QwenLM/Qwen/issues/959",
+    "status": "closed",
+    "SYMPTOM": "Crash - Assertion Failure",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 168,
+    "link": "https://github.com/QwenLM/Qwen/issues/960",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 169,
+    "link": "https://github.com/QwenLM/Qwen/issues/967",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Fine-tuning Convergence Anomaly",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 170,
+    "link": "https://github.com/QwenLM/Qwen/issues/979",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Output Consistency Anomaly",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 171,
+    "link": "https://github.com/QwenLM/Qwen/issues/988",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Fine-tuning Anomaly - Fine-tuning Convergence Anomaly",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 172,
+    "link": "https://github.com/QwenLM/Qwen/issues/992",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 173,
+    "link": "https://github.com/QwenLM/Qwen/issues/1001",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - Other Value-related Errors",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 174,
+    "link": "https://github.com/QwenLM/Qwen/issues/1004",
+    "status": "closed",
+    "SYMPTOM": "Hang - Fine-tuning Process Stuck",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 175,
+    "link": "https://github.com/QwenLM/Qwen/issues/1007",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ValueError",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 176,
+    "link": "https://github.com/QwenLM/Qwen/issues/1019",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 177,
+    "link": "https://github.com/QwenLM/Qwen/issues/1020",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 178,
+    "link": "https://github.com/QwenLM/Qwen/issues/1021",
+    "status": "closed",
+    "SYMPTOM": "Poor Performance - Slow Inference Speed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 179,
+    "link": "https://github.com/QwenLM/Qwen/issues/1022",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 180,
+    "link": "https://github.com/QwenLM/Qwen/issues/1031",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Output Consistency Anomaly",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 181,
+    "link": "https://github.com/QwenLM/Qwen/issues/1035",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 182,
+    "link": "https://github.com/QwenLM/Qwen/issues/1036",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Tokenizer Loading Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 183,
+    "link": "https://github.com/QwenLM/Qwen/issues/1045",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 184,
+    "link": "https://github.com/QwenLM/Qwen/issues/1047",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - ValueError",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Generation Logic Defects",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 185,
+    "link": "https://github.com/QwenLM/Qwen/issues/1104",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 186,
+    "link": "https://github.com/QwenLM/Qwen/issues/1115",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - TypeError",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 187,
+    "link": "https://github.com/QwenLM/Qwen/issues/1121",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - InvalidValue",
+    "ROOT CAUSE": "Data and Computation Issues - Numerical Computation and Precision Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 188,
+    "link": "https://github.com/QwenLM/Qwen/issues/1127",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 189,
+    "link": "https://github.com/QwenLM/Qwen/issues/1129",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 190,
+    "link": "https://github.com/QwenLM/Qwen/issues/1132",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 191,
+    "link": "https://github.com/QwenLM/Qwen/issues/1136",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Fine-tuning Configuration Error",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 192,
+    "link": "https://github.com/QwenLM/Qwen/issues/1141",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Import Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 193,
+    "link": "https://github.com/QwenLM/Qwen/issues/1146",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Incomplete Response",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 194,
+    "link": "https://github.com/QwenLM/Qwen/issues/1150",
+    "status": "closed",
+    "SYMPTOM": "Hang - Fine-tuning Process Stuck",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 195,
+    "link": "https://github.com/QwenLM/Qwen/issues/1151",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Not Following Instructions",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 196,
+    "link": "https://github.com/QwenLM/Qwen/issues/1154",
+    "status": "closed",
+    "SYMPTOM": "Loading Failure - Model Loading Error - Validation Failed",
+    "ROOT CAUSE": "API Usage and Interface Issues - Function Call Parameter Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 197,
+    "link": "https://github.com/QwenLM/Qwen/issues/1159",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - CUDA Version Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 198,
+    "link": "https://github.com/QwenLM/Qwen/issues/1169",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Kernel Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 199,
+    "link": "https://github.com/QwenLM/Qwen/issues/1175",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Distributed and Parallel Computing Issues - Model Parallelism Mismatch",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 200,
+    "link": "https://github.com/QwenLM/Qwen/issues/1198",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Device Error",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 201,
+    "link": "https://github.com/QwenLM/Qwen/issues/1199",
+    "status": "closed",
+    "SYMPTOM": "Crash - Other Crashes",
+    "ROOT CAUSE": "Environment Compatibility Issues - System Architecture Compatibility",
+    "STAGE": "Fine-tuning",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 202,
+    "link": "https://github.com/QwenLM/Qwen/issues/1218",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - Other Value-related Errors",
+    "ROOT CAUSE": "API Usage and Interface Issues - Call Sequence Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 203,
+    "link": "https://github.com/QwenLM/Qwen/issues/1231",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - AttributeError",
+    "ROOT CAUSE": "Algorithm Implementation Defects - Attention Mechanism Implementation Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 204,
+    "link": "https://github.com/QwenLM/Qwen/issues/1250",
+    "status": "closed",
+    "SYMPTOM": "Crash - CUDA Error - Out of Memory",
+    "ROOT CAUSE": "Hardware and Resource Limitations - GPU Memory Insufficiency",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 205,
+    "link": "https://github.com/QwenLM/Qwen/issues/1260",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Model Capability Degradation",
+    "ROOT CAUSE": "API Usage and Interface Issues - API Compatibility Issues",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 206,
+    "link": "https://github.com/QwenLM/Qwen/issues/1268",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 207,
+    "link": "https://github.com/QwenLM/Qwen/issues/1276",
+    "status": "closed",
+    "SYMPTOM": "Crash - Value-related Error - Runtime DType Mismatch",
+    "ROOT CAUSE": "Configuration and Parameter Setting Errors - Inference Configuration Error",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  },
+  {
+    "number": 208,
+    "link": "https://github.com/QwenLM/Qwen/issues/1291",
+    "status": "closed",
+    "SYMPTOM": "Incorrect Functionality - Generation Quality Anomaly - Meaningless Generation",
+    "ROOT CAUSE": "Environment Compatibility Issues - Dependency Library Compatibility",
+    "STAGE": "Inference",
+    "model": "Qwen",
+    "architecture": "Dense"
+  }
+]
